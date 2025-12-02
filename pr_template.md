@@ -22,7 +22,7 @@ Please check off which features you have implemented:
 
 ## Screen Recording
 
-**Link**: [paste it here]
+**Link**: https://youtu.be/yhqVTuRSyu0
 
 ## Written Portion
 
